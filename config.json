@@ -20,7 +20,7 @@
         "supportEmail-CHANGETHIS": "help@example.com",
         "brandBarElements": [
             "",
-            "<a target=\"_blank\" href=\"http://www.riskfrontiers.com"></a>",
+            "<a target=\"_blank\" href=\"http://www.riskfrontiers.com\"></a>",
             ""
         ],
         "corsProxyBaseUrl": "http://nationalmap.research.nicta.com.au/proxy/",
